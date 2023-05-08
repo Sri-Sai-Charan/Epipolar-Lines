@@ -17,6 +17,6 @@ The outline of the normalized 8-point algorithm:
 ## Results
 
 <table>
-    <tr><img src="Results/imageA.png"><p align="center"></p></tr>
-    <tr><img src="Results/imageB.png"><p align="center"></p></tr>
+    <tr><td><img src="Results/imageA.png"><p align="center"> Image 1</p></td></tr>
+    <tr><td><img src="Results/imageB.png"><p align="center"> Image 2</p></td></tr>
 </table>
