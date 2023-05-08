@@ -15,3 +15,8 @@ The outline of the normalized 8-point algorithm:
 <img src="https://drive.google.com/uc?id=1nVnvBpKeLmiowT9Q4_QauogXpcdXBmHm&export=download" width="700"/>
 
 ## Results
+
+<table>
+    <tr><img src="Results/imageA.png"><p align="center"></p></tr>
+    <tr><img src="Results/imageB.png"><p align="center"></p></tr>
+</table>
