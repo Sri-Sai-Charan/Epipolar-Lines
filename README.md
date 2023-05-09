@@ -20,3 +20,15 @@ The outline of the normalized 8-point algorithm:
     <tr><td><img src="Results/imageA.png"><p align="center"> Image 1</p></td></tr>
     <tr><td><img src="Results/imageB.png"><p align="center"> Image 2</p></td></tr>
 </table>
+
+# Folder Structure
+```
+📦Epipolar-Lines
+ ┣ 📂Results
+ ┃ ┣ 📜imageA.png
+ ┃ ┗ 📜imageB.png
+ ┣ 📜.gitignore
+ ┣ 📜Epipolar_Lines.ipynb
+ ┣ 📜LICENSE
+ ┗ 📜README.md
+```
